@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="40" viewBox="0 0 140 40" role="img" aria-label="English">
+  <rect x=".5" y=".5" width="139" height="39" rx="9" fill="#141c29" stroke="#36435d"/>
+  <rect x="11" y="10" width="31" height="20" rx="5" fill="#29334d"/>
+  <text x="26.5" y="24" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#bdcefc">EN</text>
+  <text x="52" y="25" font-family="Arial, sans-serif" font-size="13" font-weight="600" fill="#e9eef8">English</text>
+</svg>
